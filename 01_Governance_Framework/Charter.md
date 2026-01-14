@@ -10,7 +10,11 @@
 ## 1. Purpose & Scope
 This Charter defines the mandatory ethical and operational framework for the **AI Development Life Cycle (AIDLC)**. It ensures AI innovation aligns with human rights, legal obligations, and corporate values. This document applies to all business units and third-party AI service providers acting on behalf of the organization.
 
-## 1.1 Organizational Commitment & Values
+## 1.1 Definition of Artificial Intelligence
+In alignment with the **OECD** and **ISO/IEC 22989**, we define an **AI System** as:
+> "An engineered or machine-based system that can, for a given set of objectives, generate outputs such as predictions, recommendations, or decisions influencing real or virtual environments. AI systems are designed to operate with varying levels of autonomy."
+
+## 1.2 Organizational Commitment & Values
 The Leadership of [Company Name] recognizes that while AI offers transformative potential, it also introduces unique risks to privacy, safety, and equity. Our commitment to Responsible AI is rooted in our core **Organizational Values**:
 
 * **Trust as a Foundation:** We recognize that AI innovation is only sustainable if it maintains the trust of our customers, employees, and regulators.
